@@ -1,0 +1,6 @@
+job_title,company,avg_salary_local,currency,basic_qualification,experience_level,remote_flag
+Data Analyst,Acme Ltd,50000,GBP,Python,SQL,Mid,onsite
+Data Analyst,TechNova,70000,USD,Python,SQL,Data Visualization,Senior,remote
+Data Analyst,Infosys,800000,INR,Python,SQL,Statistics,Junior,onsite
+Data Analyst,EuroTech,55000,EUR,Python,SQL,Junior,hybrid
+Data Analyst,LocalCorp,40000,GBP,SQL,Excel,Junior,onsite
