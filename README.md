@@ -87,8 +87,3 @@ git push origin feature/etl-improvements
 License
 Add a license of your choice (e.g., MIT). Include a LICENSE file in the repo.
 
-Contact / Next steps
-If you want, I can:
-Generate a polished one-page project summary (portfolio copy).
-Provide ready-to-copy SQL queries to use with the master table.
-Produce a small Jupyter notebook template that runs key analyses and exports charts.
